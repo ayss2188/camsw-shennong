@@ -2,7 +2,7 @@
 
 > 仅适配小米 14 Pro（shennong） · 支持 KernelSU / SukiSU / APatch · 作者：暗影双生
 
-**下载**：[最新版本（Releases）](https://github.com/ayss2188/camsw-shennong/releases/latest)　｜　**更新日志**：[changelog.md](changelog.md)
+**下载**：[最新版本（Releases）](https://github.com/ayss2188/camsw-shennong/releases)　｜　**更新日志**：[changelog.md](changelog.md)
 
 ---
 
